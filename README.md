@@ -12,11 +12,18 @@
 ## **Deploying a Solidity contract to the Matic mainnet is similar to deploying to the Matic testnet. Here are the general steps:**
 
 --> Compile the Solidity contract code using a compiler like Remix or Solidity compiler.
+<br>
 --> Get some Matic (MATIC) tokens to pay for the deployment gas fees on the mainnet. You can purchase MATIC tokens from a cryptocurrency exchange.
+<br>
 --> Connect to the Matic network using a wallet that supports the Matic network. MetaMask is one such wallet that supports the Matic network.
+<br>
 --> Once connected to the Matic network, you can deploy the contract using Remix or Truffle.
+<br>
 --> To deploy using Remix, you can use the “Deploy and Run Transactions” tab and select “Injected Web3” as the environment.
+<br>
 --> Then, you can select the account to deploy the contract from and enter the necessary deployment parameters.
+<br>
 --> After submitting the deployment transaction, you will need to wait for the transaction to be confirmed on the Matic network.
+<br>
 --> Once the transaction is confirmed, the contract will be deployed and you can interact with it using the contract’s address.
 
